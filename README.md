@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bombardofficial
 - 👀 I’m interested in Web Development and everything that is in connection with design and creating.
 - 🌱 I’m currently learning Computer Science in Austria at FH Technikum Wien.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me: 
    - Instagram: itsbombard
    - Twitter: bombardofficial
