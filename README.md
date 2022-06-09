@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Develop different types of websites 
 - ⚡ Fun fact: I love to make different kinds of music and play video games
 
-### Get in [contact][website] with me
+### :email: Get in [contact][website] with me
 
 
 ### Languages and Tools:
