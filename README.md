@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Develop different types of websites 
 - ⚡ Fun fact: I love to make different kinds of music and play video games
 
-### Get in [contact][Contact] with me
+### Get in [contact][website] with me
 
 
 ### Languages and Tools:
@@ -36,7 +36,7 @@
 
 </details>
 
-[Contact]: https://botondkovacs.com/#contact
+
 [website]: https://botondkovacs.com
 [youtube]: https://www.youtube.com/channel/UCMbOPifGjPo5H_F8FjA96PA
 [instagram]: https://instagram.com/itsbombard
