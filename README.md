@@ -11,7 +11,7 @@
 
 ### :email: Get in [contact][website] with me
 
-### :sound: Check me out on [Spotify][spotify]!
+### <img align="left" alt="Spotify" width="26px" src="https://svgshare.com/i/i8p.svg" style="padding-right:10px;" /> Check me out on [Spotify][spotify]!
 
 ### Languages and Tools:
 
