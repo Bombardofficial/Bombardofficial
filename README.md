@@ -11,6 +11,7 @@
 
 ### :email: Get in [contact][website] with me
 
+### :sound: Check me out on [Spotify][spotify]!
 
 ### Languages and Tools:
 
@@ -45,3 +46,4 @@
 [youtube]: https://www.youtube.com/channel/UCMbOPifGjPo5H_F8FjA96PA
 [instagram]: https://instagram.com/itsbombard
 [linkedin]: https://www.linkedin.com/in/botond-kov%C3%A1cs-744120228
+[spotify]: https://open.spotify.com/artist/2Gr2edwl3p6zJhbTmsQLAc
