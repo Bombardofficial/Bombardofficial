@@ -14,7 +14,7 @@
 ### <img align="left" alt="Spotify" width="26px" src="https://svgshare.com/i/i8p.svg" style="padding-right:10px;" /> Check me out on [Spotify][spotify]!
 
 ### Languages and Tools:
-<img align="left" alt="C" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="32px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="32px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;" />
