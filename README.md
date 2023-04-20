@@ -1,4 +1,4 @@
-# Hi there, I'm Botond - aka [Bombard][youtube] 👋 
+# Hi there, I'm Botond Kovacs - aka [Bombard][youtube] 👋 
 
 
 ## I'm a Student, Music Producer, and Developer!
@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Gaining experience in several branches of IT 
 - ⚡ Fun fact: I love to make different kinds of music and play video games
 
-### :email: Get in [contact][website] with me
+### :email: Get in [contact][email] with me
 
 ### <img align="left" alt="Spotify" width="26px" src="https://svgshare.com/i/i8p.svg" style="padding-right:10px;" /> Check me out on [Spotify][spotify]!
 
@@ -42,7 +42,7 @@
 </details>
 
 
-[website]: https://botondkovacs.com
+[email]: https://bombardthecreator@gmail.com
 [youtube]: https://www.youtube.com/channel/UCMbOPifGjPo5H_F8FjA96PA
 [instagram]: https://instagram.com/itsbombard
 [linkedin]: https://www.linkedin.com/in/botond-kov%C3%A1cs-744120228
