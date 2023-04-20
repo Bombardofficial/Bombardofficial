@@ -3,10 +3,10 @@
 
 ## I'm a Student, Music Producer, and Developer!
 
-- 👀 I’m interested in Web Development and everything that is in connection with design and creating
+- 👀 I’m interested in Web,Software and Game Development and everything that is in connection with design and creating
 - 🌱 I’m currently learning Computer Science in Austria at FH Technikum Wien
 - 👯 I’m looking to collaborate on Web projects
-- 🥅 2022 Goals: Develop different types of websites 
+- 🥅 2023 Goals: Gaining experience in several branches of IT 
 - ⚡ Fun fact: I love to make different kinds of music and play video games
 
 ### :email: Get in [contact][website] with me
