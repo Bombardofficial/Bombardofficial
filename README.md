@@ -18,7 +18,7 @@
 <img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="38px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="38px" src="https://www.svgrepo.com/show/184143/java.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Basic" width="38px" src="https://www.shareicon.net/download/2015/10/23/660731_interface.svg" style="padding-right:10px;" />
+<!--<img align="left" alt="Visual Basic" width="38px" src="https://www.shareicon.net/download/2015/10/23/660731_interface.svg" style="padding-right:10px;" />-->
 <img align="left" alt="HTML5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
