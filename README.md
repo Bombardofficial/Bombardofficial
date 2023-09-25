@@ -1,4 +1,4 @@
-# Hi there, I'm Botond Kovacs - aka [Bombard][youtube] 👋 
+# Hi there, I'm Botond Kovács - aka [Bombard][youtube] 👋 
 
 
 ## I'm a Student, Music Producer, and Developer!
