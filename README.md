@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Gaining experience in several branches of IT 
 - ⚡ Fun fact: I love to make different kinds of music and play video games
 
-### :email: Get in [contact](mailto:bombardthecreator@gmail.com) with me
+### :email: Get in contact with me in [email](mailto:bombardthecreator@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/botond-kovacs-at)!
 
 ### <img align="left" alt="Spotify" width="26px" src="https://svgshare.com/i/i8p.svg" style="padding-right:10px;" /> Check me out on [Spotify][spotify]!
 
