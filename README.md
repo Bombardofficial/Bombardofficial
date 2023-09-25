@@ -49,5 +49,5 @@
 
 [youtube]: https://www.youtube.com/channel/UCMbOPifGjPo5H_F8FjA96PA
 [instagram]: https://instagram.com/itsbombard
-[linkedin]: https://www.linkedin.com/in/botond-kov%C3%A1cs-744120228
+[linkedin]: https://www.linkedin.com/in/botond-kovacs-at
 [spotify]: https://open.spotify.com/artist/2Gr2edwl3p6zJhbTmsQLAc
