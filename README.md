@@ -3,11 +3,9 @@
 
 ## I'm a Student, Music Producer, and Developer!
 
+- 🎓 BSc in Computer Science
 - 👀 I’m interested in Web, Software, Game Development and everything that is in connection with design and creating
-- 🌱 I’m currently learning Computer Science in Austria at FH Technikum Wien
-- 👯 I’m looking to collaborate on projects
-- 🥅 2023 Goals: Gaining experience in several branches of IT 
-- ⚡ Fun fact: I love to make different kinds of music and play video games
+- 🌱 I’m currently learning AI Engineering in Austria at FH Technikum Wien
 
 ### :email: Get in contact with me in [email](mailto:bombardthecreator@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/botond-kovacs-at)!
 
