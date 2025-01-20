@@ -4,8 +4,8 @@
 ## I'm a Student, Music Producer, and Developer!
 
 - 🎓 BSc in Computer Science
-- 👀 I’m interested in Web, Software, Game Development and everything that is in connection with design and creating
-- 🌱 I’m currently learning AI Engineering in Austria at FH Technikum Wien
+- 👀 I’m currently working on a retro horror game that will be released in the Q2 of 2025 on Steam
+- 🌱 I’m studying AI Engineering in Austria at FH Technikum Wien
 
 ### :email: Get in contact with me in [email](mailto:bombardthecreator@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/botond-kovacs-at)!
 
