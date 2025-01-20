@@ -26,7 +26,7 @@
 <img align="left" alt="Aws" width="38px" src="https://www.svgrepo.com/show/376356/aws.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="38px" src="https://www.svgrepo.com/show/331626/unity.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="38px" src="https://commons.wikimedia.org/wiki/File:Spotify_logo_with_text.svg#/media/File:Spotify_logo_without_text.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" style="padding-right:10px;" />
 
 
 <br />
