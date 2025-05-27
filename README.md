@@ -18,7 +18,6 @@
 - 📧 [bombardthecreator@gmail.com](mailto:bombardthecreator@gmail.com)  
 - 💼 [LinkedIn][linkedin]  
 - 🎧 [Spotify][spotify]  
-- 🧪 [GitHub Projects](https://github.com/Bombardofficial)
 
 ---
 
