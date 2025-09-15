@@ -8,7 +8,7 @@
 
 - BSc in Computer Science with a focus on game development  
 - Currently pursuing a Master's in AI Engineering at FH Technikum Wien  
-- Co-developing a narrative-driven psychological horror game (*Beneath the Quiet: Where It Ends*), releasing on Steam in 2025  
+- Developing a narrative-driven psychological horror game (*Beneath the Quiet: Where It Ends*), releasing on Steam in 2025  
 - 8+ years of experience in music production with releases signed by international labels
 
 ---
