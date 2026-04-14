@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Botond Kovács – aka [Bombard][youtube]
+# Hi, I'm Botond Kovács – aka [Bombard][youtube]
 
-🎮 Game Developer • 🎓 AI Specialist • 🎧 Music Producer
+💻 Software Engineer • 🎓 AI Engineering Graduate Student • 🎮 Game Dev
 
 ---
 
 ## 🧠 About Me
 
-- BSc in Computer Science with a focus on game development  
-- Currently pursuing a Master's in AI Engineering at FH Technikum Wien  
-- Developing a narrative-driven psychological horror game (*Beneath the Quiet: Where It Ends*), releasing on Steam in 2025  
-- 8+ years of experience in music production with releases signed by international labels
+🎓 Education: Computer Science BSc (Game Dev focus) | Currently pursuing an MSc in AI Engineering at FH Technikum Wien.
+🚀 Shipped: Engineer of Beneath the Quiet: Where It Ends, a narrative-driven psychological horror game officially released on Steam.
+🛠️ Tech Focus: High-performance systems in C# / Unity, Full-stack development (Java, React, Next.js), and applied Machine Learning.
+🎯 Professional Goal: Building robust, scalable architectures where complex engineering meets real-world production.
+🎵 Passion: 8+ years of experience in music production and sound design for digital products.
 
 ---
 
