@@ -46,11 +46,7 @@
 
 ---
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bombardofficial?cardType=github&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-</details>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bombardofficial?cardType=github&theme=dark&fontFamily=Mona%20Sans&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
