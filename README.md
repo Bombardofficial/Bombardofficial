@@ -1,28 +1,25 @@
-# Hi, I'm Botond Kovács – aka [Bombard][youtube]
+# Hi, I'm Botond Kovács — aka [Bombard][youtube] 👋
 
-💻 Software Engineer • 🎓 AI Engineering Graduate Student • 🎮 Game Dev
+💻 **Software Engineer** • 🧠 **MSc in AI Engineering** • 🎮 **Game Developer**
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🎓 Education: Computer Science BSc (Game Dev focus) | Currently pursuing an MSc in AI Engineering at FH Technikum Wien.
-
-🚀 Shipped: Engineer of Beneath the Quiet: Where It Ends, a narrative-driven psychological horror game officially released on Steam.
-
-🛠️ Tech Focus: High-performance systems in C# / Unity, Full-stack development (Java, React, Next.js), and applied Machine Learning.
-
-🎯 Professional Goal: Building robust, scalable architectures where complex engineering meets real-world production.
-
-🎵 Passion: 8+ years of experience in music production and sound design for digital products.
+- 🏆 **Shipped & Award-Winning:** Lead Engineer of [*Beneath the Quiet: Where It Ends*][steam] — psychological horror game released on Steam & **Winner of the PGDA Talent Award 2026**.
+- 🎓 **Education:** BSc in Computer Science | MSc in AI Engineering *(Specialized in Game Engineering)*.
+- 🛠️ **Tech Focus:** High-performance C# / Unity architecture, full-stack development (React, Next.js, Java), and applied Machine Learning.
+- 🎯 **Engineering Goal:** Building robust, scalable systems where complex technical architecture meets real-world production.
+- 🎵 **Audio & Sound Design:** 8+ years of experience in audio engineering, electronic music composition, and game soundtracks.
 
 ---
 
 ## 📬 Connect With Me
 
-- 📧 [bombardthecreator@gmail.com](mailto:bombardthecreator@gmail.com)  
-- 💼 [LinkedIn][linkedin]  
-- 🎧 [Spotify][spotify]  
+- 📧 **Email:** [bombardthecreator@gmail.com](mailto:bombardthecreator@gmail.com)  
+- 💼 **LinkedIn:** [LinkedIn][linkedin]  
+- 🎧 **Spotify:** [Bombard on Spotify][spotify]  
+- 🎥 **YouTube:** [Bombard Channel][youtube]
 
 ---
 
@@ -52,4 +49,5 @@
 
 [youtube]: https://www.youtube.com/channel/UCMbOPifGjPo5H_F8FjA96PA  
 [linkedin]: https://www.linkedin.com/in/botond-kovacs-at  
-[spotify]: https://open.spotify.com/artist/2Gr2edwl3p6zJhbTmsQLAc
+[spotify]: https://open.spotify.com/artist/2Gr2edwl3p6zJhbTmsQLAc  
+[steam]: https://store.steampowered.com/app/3747400/Beneath_the_Quiet_Where_It_Ends
