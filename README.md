@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🏆 **Shipped & Award-Winning:** Lead Engineer of [*Beneath the Quiet: Where It Ends*][steam] — psychological horror game released on Steam & **Winner of the PGDA Talent Award 2026**.
+- 🏆 **Shipped & Award-Winning:** Lead Engineer of [*Beneath the Quiet: Where It Ends*][steam], a survival/psychological horror game released on Steam & **Winner of the PGDA Talent Award 2026**.
 - 🎓 **Education:** BSc in Computer Science | MSc in AI Engineering *(Specialized in Game Engineering)*.
 - 🛠️ **Tech Focus:** High-performance C# / Unity architecture, full-stack development (React, Next.js, Java), and applied Machine Learning.
 - 🎯 **Engineering Goal:** Building robust, scalable systems where complex technical architecture meets real-world production.
