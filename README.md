@@ -3,7 +3,7 @@
 Software Engineer  
 MSc in AI Engineering · Vienna
 
-Lead Engineer on [*Beneath the Quiet: Where It Ends*](https://store.steampowered.com/app/3747400/) — a first-person psychological horror title released on Steam and winner of the PGDA Talent Award 2026. I build reliable systems that ship.
+Lead Engineer on [*Beneath the Quiet: Where It Ends*](https://store.steampowered.com/app/3747400/) - a first-person psychological horror title released on Steam and winner of the PGDA Talent Award 2026. I build reliable systems that ship.
 
 ## Selected Work
 
